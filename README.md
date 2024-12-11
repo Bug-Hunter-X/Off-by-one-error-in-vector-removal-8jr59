@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Rust when removing elements from a vector while iterating. The `bug.rs` file contains the buggy code, which incorrectly removes elements, leading to unexpected results.  The solution is provided in `bugSolution.rs`, showcasing proper techniques for safe in-place vector modification.
